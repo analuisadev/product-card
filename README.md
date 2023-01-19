@@ -14,9 +14,6 @@
 <br>
 
 ![Screenshot_5](https://user-images.githubusercontent.com/71856519/213430313-71214f12-64bd-4cdb-a56b-f60cb50b4ab0.png)
-
-![Screenshot_6](https://user-images.githubusercontent.com/71856519/213430316-4b0878be-11a0-4f27-9707-767ca477bf8e.png)
-
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -33,6 +30,10 @@ O Product Card é um projeto de apresentação da venda de um produto com uma fu
 - [Acesse o projeto finalizado, online](https://github.com/analuisadev/product-card)
 
 ## 🔖 Layout
+
+
+
+![Screenshot_6](https://user-images.githubusercontent.com/71856519/213430316-4b0878be-11a0-4f27-9707-767ca477bf8e.png)
 
 ## :memo: Licença
 
