@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Product Card é um projeto de apresentação da venda de um produto com uma funcionalidade acrescentada de 360°
 
-- [Acesse o projeto finalizado, online]()
+- [Acesse o projeto finalizado, online](https://github.com/analuisadev/product-card)
 
 ## 🔖 Layout
 
