@@ -18,8 +18,8 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML
-- CSS
+- HTML5
+- CSS3
 - JavaScript
 - Git e Github
 
@@ -27,11 +27,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Product Card é um projeto de apresentação da venda de um produto com uma funcionalidade acrescentada de 360°
 
-- [Acesse o projeto finalizado, online](https://github.com/analuisadev/product-card)
+- [Acesse o projeto finalizado, online](https://analuisadev.github.io/product-card/)
 
 ## 🔖 Layout
-
-
 
 ![Screenshot_6](https://user-images.githubusercontent.com/71856519/213430316-4b0878be-11a0-4f27-9707-767ca477bf8e.png)
 
